@@ -1,0 +1,38 @@
+div {
+  width: 200px;
+  padding: 50px;
+  border: 5px solid black;
+}
+
+#first-div {
+  background-color: #39cccc;
+  height : 200px;
+}
+
+#second-div {
+  background-color: #ff4136;
+  box-sizing: border-box;
+  min-height: 10vh;
+}
+
+#image-1-container {
+  height: 600px;
+  width: 200px;
+  padding: 50px;
+  background-color: pink;
+}
+
+#image-2-container {
+  height: 600px;
+  width: 200px;
+  padding: 50px;
+  background-color: pink;
+}
+
+#cat-melon {
+  width: 100%;
+}
+
+p {
+  background-color: #7fdbff;
+}
